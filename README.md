@@ -9,7 +9,7 @@
         margin:0; 
         padding:0; 
         line-height:2; 
-        background-image: url(https://ik.imagekit.io/dmrehbpdvz/AHMEDABAD.png?updatedAt=1751978603520);
+        background-image: url([https://ik.imagekit.io/dmrehbpdvz/AHMEDABAD.png?updatedAt=1751978603520](https://ik.imagekit.io/dmrehbpdvz/AHMEDABAD.png?updatedAt=1751978603520));
     }
         header { 
         opacity: 0.4;
