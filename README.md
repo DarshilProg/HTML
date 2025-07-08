@@ -73,7 +73,7 @@
     <header>
     <table rules="cols">
         <tr>
-            <td width="15%"><a href="file:///Users/darshilrajawat/Documents/CODES/HTML/WEBSITE/website.html"><img src="file:///Users/darshilrajawat/Downloads/Screenshot2025-07-08at9.36.24PM.png" height="55" width="150"></a></td>
+            <td width="15%"><a href="[file:///Users/darshilrajawat/Documents/CODES/HTML/WEBSITE/website.html](https://ik.imagekit.io/dmrehbpdvz/exvel.png?updatedAt=1752006549716)"><img src="file:///Users/darshilrajawat/Downloads/Screenshot2025-07-08at9.36.24PM.png" height="55" width="150"></a></td>
             <td width="21.25%"><a href="#Heritage">Heritage</a></td>
             <td width="21.25%"><a href="#religion">Sacred Spots</a></td>
             <td width="21.25%"><a href="#food">Food & Culture</a></td>
